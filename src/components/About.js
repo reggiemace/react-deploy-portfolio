@@ -4,11 +4,7 @@ const About = () => {
       <h2>I'm Reginald Mace....</h2>
 
       <div>
-        <img
-          className="profile-pic"
-          src="./public/images/bioPic.jpg"
-          alt="bio-picture"
-        />
+        <img className="profile-pic" src="./images/bioPic.jpg" alt="bio-picture" />
       </div>
       <div>
         <p className="bio-desc">
