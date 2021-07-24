@@ -9,7 +9,7 @@ const Contact = () => {
         {" "}
         <a href="mailto:reginaldmace36@gmail.com">Email:</a>
         <span> </span>| Phone: 843-276-4223 |{" "}
-        {/* <a href="https://www.linkedin.com/in/reginaldmace">LinkedIn</a> */}
+        <a href="https://www.linkedin.com/in/reginaldmace">LinkedIn</a>
       </h3>
     </div>
   );
